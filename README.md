@@ -1,8 +1,9 @@
 # Workshop "Kom igång med R"
 Här hittar ni R-skript och filer till den digitala workshopen "Kom igång med R".
-Workshopen riktar sig till statistiker och analytiker som är nyfikna på att börja använda R i sitt arbete. 
+Workshopen riktar sig främst till statistiker och analytiker i kommuner, regioner eller i offentliga mynsigheter som är nyfikna på att börja använda R i sitt arbete.
 
 För att delta aktivt på workshopen behöver ni ha R och R-Studio Desktop på era datorer, dessa program är gratis. 
+Inga förkunskaper i R krävs.
 
 Inslag i workshopen:
 - Kort intro till R

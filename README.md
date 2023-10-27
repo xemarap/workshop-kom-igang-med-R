@@ -1,4 +1,4 @@
-# Workshop "Kom igång med R"
+# Workshop: "Kom igång med R"
 Här hittar ni R-skript och filer till den digitala workshopen "Kom igång med R".
 Workshopen ger ett praktiskt exempel och riktar sig främst till statistiker och analytiker i kommuner, regioner eller i offentliga myndigheter som är nyfikna på att börja använda R i sitt arbete.
 
